@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd6ded11df1eb5f47b4f1b36b1c9df42
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redLaser: {fileID: 149760, guid: e12db33d7c49f0c4da8c6816b2e3aad2, type: 2}
+  - GameOver: {fileID: 170182, guid: e9107b6bbb1fbf542abbd043429447eb, type: 2}
+  - hit: {fileID: 8300000, guid: 9f5b930faf79b8346ae34a8bba873dc9, type: 3}
+  - scored: {fileID: 8300000, guid: 4926bd22a5598f2458d077ac9c4416f6, type: 3}
+  - levelUp: {fileID: 8300000, guid: c9e0e0642debf504fb81551ba21dcc01, type: 3}
+  - lostLife: {fileID: 8300000, guid: db63d5ba87df3a54db630322a831bc9d, type: 3}
+  - gameOver: {fileID: 8300000, guid: 117ccd06f0bd65d4e871a4efaf3455da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
